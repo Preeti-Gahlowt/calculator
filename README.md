@@ -1,3 +1,3 @@
 # calculator
-this is a calculator for maths problem.
+this is not calculator for maths problem.
  https://preeti-gahlowt.github.io/calculator/
